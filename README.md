@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amberjain10
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python,Golang and Data Structures
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Golang and Data Structures
+- 💞️ I’m looking to collaborate on Golang and Devops projects.
 - 📫 
 
 <!---
